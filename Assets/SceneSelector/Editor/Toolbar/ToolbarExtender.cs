@@ -6,6 +6,8 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UIElements;
 
+// This code has been refined from: https://github.com/marijnz/unity-toolbar-extender
+
 namespace SceneSelector.Editor.Toolbar
 {
 	[InitializeOnLoad]
