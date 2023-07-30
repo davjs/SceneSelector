@@ -11,4 +11,5 @@ Scenes are also the primary context in the Unity Editor, making it intuitive to 
 2. Press ... -> Download, or Ctrl+Shift+S
 
 ### Package root folder
+This repository contains example scenes and unit tests in addition to the exported package code.
 The "Package" root folder is: [Assets/SceneSelector](https://github.com/davjs/SceneSelector/tree/main/Assets/SceneSelector)
